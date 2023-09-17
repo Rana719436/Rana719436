@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana719436&label=Profile%20views&color=0e75b6&style=flat" alt="rana719436" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana719436" alt="rana719436" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rana roshdy" target="blank"><img src="https://img.shields.io/twitter/follow/rana roshdy?logo=twitter&style=for-the-badge" alt="rana roshdy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana719436&show_icons=true&locale=en" alt="rana719436" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana719436&" alt="rana719436" /></p>
+
